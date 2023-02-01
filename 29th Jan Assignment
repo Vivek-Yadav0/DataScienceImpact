@@ -1,0 +1,88 @@
+                                     	    Assignment Solution
+                                          
+1. Who developed Python Programming Language? 
+-> Python was created by Guido van Rossum, and released on February 20, 1991.
+
+
+2. Which type of Programming does Python support? 
+->Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of their features support functional programming and aspect-oriented programming (including metaprogramming and metaobjects).
+
+
+3. Is Python case sensitive when dealing with identifiers? 
+->Yes, Python is a case-sensitive language.
+
+
+4. What is the correct extension of the Python file?
+-> “.py” extension.
+
+
+5. Is Python code compiled or interpreted? 
+->Python is both compiled as well as an interpreted language, which means when we run a python code, it is first compiled and then interpreted line by line.
+
+
+6. Name a few blocks of code used to define in Python language? 
+-> The following are blocks: a module, a function body, and a class definition. Each command typed interactively is a block.
+
+
+7. State a character used to give single-line comments in Python? 
+-> we can use “#” or “##”.
+
+
+8. Mention functions which can help us to find the version of python that we are currently working on? 
+->  sys.version.
+
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called Lambda.
+10. What does pip stand for python? 
+-> PIP stands for Preferred Installer Program.
+
+
+11. Mention a few built-in functions in python? 
+-> Built-in functions in python are-
+print()
+type()
+input()
+len()
+sum()
+
+
+12. What is the maximum possible length of an identifier in Python? 
+-> An identifier in Python can have a maximum length of 79 characters.
+
+
+13. What are the benefits of using Python? 
+->    The benefits of using python are: 
+Easy to use.
+Extensive Libraries and frameworks.
+Efficient.
+Versatile.
+
+
+14. How is memory managed in Python? 
+-> Memory management in Python involves a private heap containing all Python objects and data structures.
+
+
+15. How to install Python on Windows and set path variables? 
+->  Installation:
+Download the binaries:
+Go to Python official website and navigate to the download tab for windows.
+Choose the latest python version.
+Click on the link and then choose your system version (32 or 64) download according to your system.
+
+ Run the installer:	
+Run the installer, and check the Install launcher for all users check box.
+Then install according to your need by choosing customizable installation.
+Once the installation is over, you will see a Python Setup Successful window.
+
+Set path variables:
+Right-clicking This PC and going to Properties.
+Clicking on the Advanced system settings in the menu on the left.
+Clicking on the Environment Variables button o​n the bottom right.
+In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+Clicking on New and entering Python’s install directory.
+
+
+
+16. Is indentation required in python? 
+-> In python indentation is important because it defines the block of statements.
+
